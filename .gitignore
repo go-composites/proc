@@ -1,0 +1,5 @@
+/bin/
+/__/
+/proc
+coverprofile.out
+*.out
